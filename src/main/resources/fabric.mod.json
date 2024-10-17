@@ -3,17 +3,20 @@
   "id": "morevillagertrades",
   "version": "${version}",
 
-  "name": "MoreVillagerTrades",
-  "description": "",
-  "authors": [],
-  "contact": {},
+  "name": "More Villager Trades",
+  "description": "Recreation of More Villager Trades for fabric",
+  "authors": ["Day"],
+  "contact": {
+    "homepage": "https://modrinth.com/project/more-villager-trades-fabric/",
+    "issues": "https://github.com/Daydeploy/MoreVillagerTrades/issues",
+    "sources": "https://github.com/Daydeploy/MoreVillagerTrades"
+  },
 
   "license": "LGPL-3.0",
   "icon": "assets/morevillagertrades/icon.png",
 
   "environment": "*",
   "entrypoints": {
-    "client": ["me.day.morevillagertrades.client.MoreVillagerTradesClient"],
     "main": ["me.day.morevillagertrades.MoreVillagerTrades"]
   },
 
