@@ -1,3 +1,5 @@
+Recreation of [More Villager Trades](https://www.curseforge.com/minecraft/mc-mods/more-villager-trades) for fabric
+
 -Adds in 50+ New Trades to all of the Villages in the game
 
 -Most Villagers got around 5 New Trades Each
